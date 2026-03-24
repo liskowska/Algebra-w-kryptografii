@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20068fa4-ace0-4a7c-98ef-5cfd468d8b0d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/AlgebraWKryptografii.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wyklad1/a_Euklidesa.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wyklad1/a_Euklidesa_rozszerzony.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wyklad1/sito_Eratostenesa.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wyklad1/a_Euklidesa_rozszerzony.py" beforeDir="false" afterPath="$PROJECT_DIR$/wyklad1/a_Euklidesa_rozszerzony.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +35,7 @@
     "Python.a_Euklidesa_rozszerzony.executor": "Run",
     "Python.sito_Eratostenesa.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "ai.playground.ignore.import.keys.banner.in.settings": "true",
@@ -66,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1774279920141</updated>
-      <workItem from="1774279921233" duration="4939000" />
+      <workItem from="1774279921233" duration="8173000" />
     </task>
     <servers />
   </component>
@@ -81,17 +74,12 @@
           <line>8</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/wyklad1/sito_Eratostenesa.py</url>
-          <line>9</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/AlgebraWKryptografii$a_Euklidesa.coverage" NAME="a_Euklidesa Coverage Results" MODIFIED="1774281694615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wyklad1" />
-    <SUITE FILE_PATH="coverage/AlgebraWKryptografii$a_Euklidesa_rozszerzony.coverage" NAME="a_Euklidesa_rozszerzony Coverage Results" MODIFIED="1774282671719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wyklad1" />
+    <SUITE FILE_PATH="coverage/AlgebraWKryptografii$a_Euklidesa.coverage" NAME="a_Euklidesa Coverage Results" MODIFIED="1774361937462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wyklad1" />
+    <SUITE FILE_PATH="coverage/AlgebraWKryptografii$a_Euklidesa_rozszerzony.coverage" NAME="a_Euklidesa_rozszerzony Coverage Results" MODIFIED="1774362216636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wyklad1" />
     <SUITE FILE_PATH="coverage/AlgebraWKryptografii$sito_Eratostenesa.coverage" NAME="sito_Eratostenesa Coverage Results" MODIFIED="1774284860183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wyklad1" />
   </component>
 </project>

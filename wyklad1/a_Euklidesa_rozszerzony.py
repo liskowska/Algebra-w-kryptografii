@@ -15,12 +15,9 @@ def Euklides_rozszerzony(a, b):
         s = s0 - q*s1
         t = t0 - q*t1
 
-        r0 = r1
-        r1 = r
-        s0 = s1
-        s1 = s
-        t0 = t1
-        t1 = t
+        r0, r1 = r1, r
+        s0, s1 = s1, s
+        t0, t1 = t1, t
     return r0, s0, t0
 
 a = 90
