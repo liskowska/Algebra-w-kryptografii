@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20068fa4-ace0-4a7c-98ef-5cfd468d8b0d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/wyklad2/f_Eulera.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wyklad2/t_Fermata.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wyklad1/a_Euklidesa_rozszerzony.py" beforeDir="false" afterPath="$PROJECT_DIR$/wyklad1/a_Euklidesa_rozszerzony.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +34,9 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.a_Euklidesa.executor": "Run",
     "Python.a_Euklidesa_rozszerzony.executor": "Run",
+    "Python.f_Eulera.executor": "Run",
     "Python.sito_Eratostenesa.executor": "Run",
+    "Python.t_Fermata.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -59,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1774279920141</updated>
-      <workItem from="1774279921233" duration="8173000" />
+      <workItem from="1774279921233" duration="10886000" />
     </task>
     <servers />
   </component>
@@ -81,5 +84,7 @@
     <SUITE FILE_PATH="coverage/AlgebraWKryptografii$a_Euklidesa.coverage" NAME="a_Euklidesa Coverage Results" MODIFIED="1774361937462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wyklad1" />
     <SUITE FILE_PATH="coverage/AlgebraWKryptografii$a_Euklidesa_rozszerzony.coverage" NAME="a_Euklidesa_rozszerzony Coverage Results" MODIFIED="1774362216636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wyklad1" />
     <SUITE FILE_PATH="coverage/AlgebraWKryptografii$sito_Eratostenesa.coverage" NAME="sito_Eratostenesa Coverage Results" MODIFIED="1774284860183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wyklad1" />
+    <SUITE FILE_PATH="coverage/AlgebraWKryptografii$f_Eulera.coverage" NAME="f_Eulera Coverage Results" MODIFIED="1774363617446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wyklad2" />
+    <SUITE FILE_PATH="coverage/AlgebraWKryptografii$t_Fermata.coverage" NAME="t_Fermata Coverage Results" MODIFIED="1774365229741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wyklad2" />
   </component>
 </project>
