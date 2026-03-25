@@ -3,12 +3,12 @@
 
 # złożoność czasowa: O(log(m+n))
 
-def Euklides(a, b):
+def euklides(a, b):
     while b != 0:
         c = a % b
         a, b = b, c
     return a
 
-a = 12
-b = 90
-print("NWD(", a, ",", b, ") = ", Euklides(a, b))
+# a = 12
+# b = 90
+# print("NWD(", a, ",", b, ") = ", euklides(a, b))

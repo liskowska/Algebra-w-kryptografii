@@ -34,5 +34,5 @@ def f_Eulera(a):
         prev_prime = p
     return int(E)
 
-print(prime_factorization(2646))
-print(f_Eulera(2646))
+# print(prime_factorization(2646))
+# print(f_Eulera(2646))
